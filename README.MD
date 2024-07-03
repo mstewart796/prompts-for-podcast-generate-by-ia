@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/https://github.com/mstewart796/prompts-for-podcast-generate-by-ia/blob/main/assets/03e438f1-255b-460c-adc3-cc553fb5571b.webp"
+    src="./assets/cover.png"
     width="300"
 />
 </p>
