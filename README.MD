@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://lexica.art/prompt/2bc306a4-df61-43f6-9e94-e27bfa15778c"
     width="300"
 />
 </p>
