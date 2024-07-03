@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="https://lexica.art/prompt/2bc306a4-df61-43f6-9e94-e27bfa15778c"
+    src="./assets/https://github.com/mstewart796/prompts-for-podcast-generate-by-ia/blob/main/assets/03e438f1-255b-460c-adc3-cc553fb5571b.webp"
     width="300"
 />
 </p>
